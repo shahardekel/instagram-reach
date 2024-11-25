@@ -1,5 +1,3 @@
-# instagram-reach
-
 # Instagram Reach and Engagement Analysis
 
 A data analysis project aimed at understanding the key factors driving Instagram impressions, engagement, and reach. <br>
